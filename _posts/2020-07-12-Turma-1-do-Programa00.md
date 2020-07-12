@@ -3,8 +3,8 @@ layout: post
 title: Turma 1 do Programa00
 subtitle: Andamento atual da turma
 cover-img: /assets/img/mulheres-univesp.jpg
-thumbnail-img: /assets/img/mulheres-univesp-avatar-200.png
-share-img: /assets/img/mulheres-univesp-avatar-200.png
+thumbnail-img: /assets/img/mulheres-univesp00-avatar-200.png
+share-img: /assets/img/mulheres-univesp00-avatar-200.png
 tags: [Programa00, online, alunas]
 ---
 
