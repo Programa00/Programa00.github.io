@@ -4,7 +4,7 @@ title: Sobre o Programa
 subtitle: Tudo o que você quer saber sobre o Programa00
 ---
 
-Duas alunas, Gabi e Erica, gostariam de iniciar suas colegas em informática.  
+Duas alunas, Gabi e Erica, queriam fazer algo para iniciar suas colegas em informática.  
 O intuito era apresentar as mulheres à tecnologia desde o início, com aulas sobre terminal, comandos bash e versionamento de código usando Git e Github.  
 Assim nasceram a comunidade Mulheres Univesp e o Programa00
 
