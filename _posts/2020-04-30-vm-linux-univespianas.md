@@ -16,5 +16,5 @@ A imagem da VM com o tutorial de instalação se encontra no seguine repositóri
 
 ### Por quê Xubuntu?
 O Linux pode apavorar à primeira vista, sobretudo para quem vem do Windows.  
-Sendo assim, a distribuição UBUNTU é mais gráfica e gentil para esse tipo de usuário.  
+A distribuição UBUNTU é mais gráfica e gentil para esse tipo de usuário.  
 Escolhemos a Xubuntu por ser uma versão mais leve, já que irá rodar dentro de ambiente virtualizado.
