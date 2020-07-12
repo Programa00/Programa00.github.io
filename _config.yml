@@ -12,10 +12,10 @@ author: Erica Suguimoto
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "sobre"
-  Resources:
+  Sobre o Programa: "sobre"
+  Recursos:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Aprenda markdown: "https://www.markdowntutorial.com/"
   Página Oficial: "https://www.facebook.com/mulheresunivesp"
 
 # --- Logo --- #
