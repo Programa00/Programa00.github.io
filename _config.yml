@@ -16,6 +16,10 @@ navbar-links:
   Recursos:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Aprenda markdown: "https://www.markdowntutorial.com/"
+  UNIVESP:
+    - Univesp.br: "https://univesp.br/"
+    - Página no facebook: "https://www.facebook.com/univespoficial"
+    - Acesso dos alunos: "https://login.univesp.br/"
   Página Oficial: "https://www.facebook.com/mulheresunivesp"
 
 # --- Logo --- #
