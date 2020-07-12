@@ -29,10 +29,10 @@ Mais sobre o programa:
 
 #### Sobre Gabi
 - aluna de Engenharia de Computação, turma 2018.1, polo Araçoiaba da Serra.
-- participante da Summer School 2019, na UNICAMP.
-- ganhadora do Hackathon nome aqui.
+- participante da [Summer School 2019](https://www.unicamp.br/unicamp/noticias/2020/01/22/escola-de-verao-da-maratona-de-programacao-amplia-participacao-feminina), na UNICAMP.
+- membro do grupo vencedor no [HackaTrouble de 2019](https://www.investe.sp.gov.br/noticia/estudantes-da-univesp-vencem-maratona-virtual-hackatrouble/).
 
 #### Sobre Erica
 - aluna de Engenharia de Computação, turma 2018.1, polo Louveira.
-- participante da Piscina 42SãoPaulo de 2019, atual aluna cadete do curso de Engenharia de Software de 3 anos.
-- ex-bolsista Santander Coders Web FullStack NodeJS da Digital House.
+- participante da [Piscina 42SãoPaulo](https://www.42sp.org.br/) de 2019, atual [aluna cadete](http://fundacaotelefonicavivo.org.br/42-sao-paulo/42-sao-paulo-apoia-mulheres-na-area-de-tecnologia/?fbclid=IwAR3jN0_8cGEotbBYhw6DSWCejOGuHAMjCXn0cGsWHmGRH6wirIWDZGy2TwE) do curso de Engenharia de Software de 3 anos.
+- ex-bolsista Santander Coders Web FullStack NodeJS presencial da [Digital House Brasil](https://www.digitalhouse.com/br/).
