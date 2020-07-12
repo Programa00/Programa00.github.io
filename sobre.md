@@ -26,3 +26,13 @@ Mais sobre o programa:
 - Trazer o crescimento de conhecimento em tecnologias e também de auto-confiança entre as participantes
 - Formar facilitadoras para levar o programa aos polos e às mulheres das comunidades locais.
 - Expansão do programa, com módulos ensinando o básico de tecnologias e linguagens atuais.
+
+#### Sobre Gabi
+- aluna de Engenharia de Computação, turma 2018.1, polo Araçoiaba da Serra.
+- participante da Summer School 2019, na UNICAMP.
+- ganhadora do Hackathon nome aqui.
+
+#### Sobre Erica
+- aluna de Engenharia de Computação, turma 2018.1, polo Louveira.
+- participante da Piscina 42SãoPaulo de 2019, atual aluna cadete do curso de Engenharia de Software de 3 anos.
+- ex-bolsista Santander Coders Web FullStack NodeJS da Digital House.
