@@ -133,7 +133,8 @@ google_analytics: "UA-172447081-1"
 #disqus: ""
 
 # To use Facebook Comments, create a Facebook app and fill in the Facebook App ID
-fb_comment_id: "aDcadi19"
+#fb_comment_id: "aDcadi19"
+fb_comment_id: "2705950449684626"
 
 # To use Utterances comments: (0) uncomment the following section, (1) fill in
 # "repository" (make sure the repository is public), (2) Enable Issues in your repository,
