@@ -14,9 +14,10 @@ author: Erica Suguimoto
 navbar-links:
   Sobre o Programa: "sobre"
   Recursos:
+    - VM Linux das minas: "https://github.com/Programa00/VM-Xubuntu"
+    - WSL2 Linux das minas: "https://programa00.github.io/2020-08-01-wsl-windows10-univespianas/"
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Aprenda markdown: "https://www.markdowntutorial.com/"
-    - VM Linux das minas: "https://github.com/Programa00/VM-Xubuntu"
   UNIVESP:
     - Univesp.br: "https://univesp.br/"
     - Página no facebook: "https://www.facebook.com/univespoficial"
