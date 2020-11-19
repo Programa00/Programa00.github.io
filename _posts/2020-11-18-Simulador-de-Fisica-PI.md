@@ -17,5 +17,6 @@ O repositório se encontra no link a seguir:
 
 ### Agradecimentos
 Agradecimentos ao professor Sylla John,  
-E aos meus colegas de grupo: Armando, Sandra, Daniel, Wellington, Cris.
+E aos meus colegas de grupo: Armando, Sandra, Daniel, Wellington, Cris.  
+  
 Erica.
